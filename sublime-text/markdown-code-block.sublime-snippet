@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+```${1:sh}
+${2:script}
+```
+]]></content>
+    <tabTrigger>sh</tabTrigger>
+</snippet>
+
